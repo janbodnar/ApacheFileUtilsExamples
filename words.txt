@@ -1,0 +1,3 @@
+blue, tank, robot, planet, wisdom, cherry, 
+chair, pen, keyboard, tree, forest, plant
+sky, movie, white, colour, music, dog, cat
